@@ -1,0 +1,16 @@
+body {
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+  }
+
+  nav {
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  #grid-box {
+    
+  }
